@@ -1,7 +1,7 @@
-# FastChef - Landing Page 🍔🍕
+# Deu Fome - Landing Page 🍔🍕
 
 ## Descrição 📋
-FastChef é uma plataforma de delivery de alimentos frescos e deliciosos, trazendo uma experiência gastronômica única com pratos preparados com ingredientes de qualidade, prontos para serem entregues na sua porta. 🌎
+DeuFome é uma plataforma de delivery de alimentos frescos e deliciosos, trazendo uma experiência gastronômica única com pratos preparados com ingredientes de qualidade, prontos para serem entregues na sua porta. 🌎
 
 ### Funcionalidades principais 🔥
 - **Variedade de Pratos**: Pratos saudáveis, massas, acompanhamentos e muito mais! 🥗🍝🍚
