@@ -14,11 +14,11 @@ const Footer = () => {
   return (
     <div className="bg-green-50 dark:bg-gray-900">
       <section className="max-w-[1200px] mx-auto">
-        <div className=" grid md:grid-cols-3 py-5">
-          <div className=" py-8 px-4 ">
-            <h1 className="sm:text-3xl text-xl font-bold sm:text-left text-justify mb-3 flex items-center gap-3">
-              <img src="https://i.ibb.co/QFpjykTY/FastChef.png" alt="Logo" className="max-w-[50px]" />
-              FastChef
+        <div className=" grid md:grid-cols-3 py-2">
+          <div className=" py-2 px-3 ">
+            <h1 className="sm:text-3xl text-xl font-bold sm:text-left text-justify mb-2 flex items-center gap-0 -ml-2">
+              <img src="https://i.ibb.co/FkyQ7xVF/C-pia-de-Fast-Chef.png" alt="Logo" className="w-[30px] sm:w-[150px]"  />
+              DeuFome
             </h1>
             <p className="">
             Do petisco ao prato principal, tudo num clique!
@@ -94,7 +94,7 @@ const Footer = () => {
         </div>
         <div>
           <div className="text-center py-10 border-t-2 border-gray-300/50">
-            FastChef | Copyright: {data}
+            DeuFome | Copyright: {data}
           </div>
         </div>
       </section>

@@ -57,14 +57,14 @@ const Navbar = () => {
             <Link to="/">
               <a
                 href="#"
-                className="font-bold text-2xl sm:text-xl flex gap-1 items-center bg-clip-text text-transparent bg-gradient-to-r from-green-600 to-verde"
+                className="font-bold text-2xl sm:text-xl flex gap-0 items-center bg-clip-text text-transparent bg-gradient-to-r from-red-600 to-red-300 -ml-20 "
               >
                 <img
-                  src="https://i.ibb.co/QFpjykTY/FastChef.png"
+                  src="https://i.ibb.co/FkyQ7xVF/C-pia-de-Fast-Chef.png"
                   alt="Logo"
-                  className="w-[30px] sm:w-[25px]" // Adjusted size
+                  className="w-[40px] sm:w-[150px]" 
                 />
-                FastChef
+                DeuFome
               </a>
             </Link>
           </div>
