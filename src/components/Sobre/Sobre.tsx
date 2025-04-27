@@ -37,7 +37,7 @@ const Banner = () => {
               <div className="flex flex-col justify-center gap-6 sm:pt-0">
                 <h1 className="text-4xl lg:text-5xl font-bold mb-10 text-verde">Sobre</h1>
                 <p className="text-sm text-gray-500 tracking-wide leading-5">
-                FastChef combina sabor e segurança, oferecendo ingredientes frescos e um serviço de delivery ágil e seguro. Conte com a qualidade de nossos pratos e a confiança de um serviço rápido, que traz suas refeições diretamente para você!
+               O Deu Fome combina sabor e segurança, oferecendo ingredientes frescos e um serviço de delivery ágil e seguro. Conte com a qualidade de nossos pratos e a confiança de um serviço rápido, que traz suas refeições diretamente para você!
                   <br />
                   <br />
                   Todos os nossos ingredientes são frescos e selecionados com cuidado, trazidos de diversos países para garantir sabores autênticos e de qualidade. Experimente o melhor da gastronomia global!

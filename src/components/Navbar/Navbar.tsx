@@ -62,7 +62,7 @@ const Navbar = () => {
                 <img
                   src="https://i.ibb.co/FkyQ7xVF/C-pia-de-Fast-Chef.png"
                   alt="Logo"
-                  className="w-[40px] sm:w-[150px]" 
+                  className="w-[40px] sm:w-[130px]" 
                 />
                 DeuFome
               </a>
