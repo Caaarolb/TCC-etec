@@ -32,7 +32,7 @@ function CardCategoria({ categoria, onClick, onDelete }: CardCategoriasProps) {
     >
       <p className='text-xl font-semibold text-black'>{categoria.nome}</p>
       
-      {isAuthenticated && (usuario.id === 20 || usuario.usuario === 'admin@admin.com') && (
+      {isAuthenticated && (usuario.id === 1 || usuario.usuario === 'admin@admin.com') && (
         <div className="absolute right-4 top-1/2 -translate-y-1/2 flex">
           <button onClick={handleEdit}>
             <Pencil size={24} className="mr-1 hover:fill-teal-700" />

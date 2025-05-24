@@ -4,7 +4,6 @@ function Equipe() {
   const membros = [
     { nome: "Letícia Gouvêa da Silva", foto: "https://i.ibb.co/Q7Jd60Z3/1718312244281.jpg", github: "https://github.com/LeticiaG29/MauiAppMinhasCompras.git", linkedin: "https://www.linkedin.com/in/leticia-gouv%C3%AAa-4b9974227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
     { nome: "Jeisa Boaventura", foto: "https://ik.imagekit.io/m1iwfxqae/Fotos%20-%20Integrantes%20(PI)/WhatsApp%20Image%202025-02-27%20at%2015.30.16.jpeg?updatedAt=1740681564502", github: "https://github.com/Caaarolb", linkedin: "https://www.linkedin.com/in/-caroline-boaventura/" },
-    { nome: "Eliseu", foto: "https://i.ibb.co/bgRM4KGV/473410378-1681615092714664-4903406460870051754-n.jpg", github: "https://github.com/BrunoEliseu2", linkedin: "https://www.linkedin.com/in/bruh-eliseu-5a938a299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
     { nome: "Laryssa", foto: "https://i.ibb.co/hJpZMs07/Whats-App-Image-2025-03-30-at-14-23-46.jpg", github: "github.com/Lary418", linkedin: "https://www.linkedin.com/in/laolimpio?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
     { nome: "Bruno", foto: "https://i.ibb.co/jZxckFq9/file.jpg", github: "", linkedin: "" },
   ];
